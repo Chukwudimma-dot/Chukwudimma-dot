@@ -5,7 +5,7 @@
 
 ## About me👱
 
-- All About me is on my website at **[MY WEBSITE](https://chukwudimma.vercel.app/)**
+- All About me is on my website at **[`MY WEBSITE`](https://chukwudimma.vercel.app/)**
   
 -  🔭 I’m currently working on `Something Exciting`.
   
@@ -52,6 +52,23 @@
 </p>
 
 ## example of My Works 🤯
+
+<a href ="https://chukwudimma.vercel.app/" target ="_blank" ><img src ='readmeImg%20(2).png' width="" height=""/></a>
+
+
+
+<div align="center">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Chukwudimma-dot&show_icons=true" />
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Chukwudimma-dot&" alt="Chukwudimma-Ani" />
+</div>
+
+</div>
+
+
+
+
+
+
 
 
 
